@@ -21,7 +21,7 @@ body {
 <!-- HTML -->
 <h1 style="color: White;"><center><bold>BLACK STAR DAY</center></bold></h1>
 <h3 style="color:White;"><center>By order of the Peaky Blinders:<center></h3>
-<h5 style="color: white"><center>You are invited to attend the birthday celebration of Lij & Shelby's birthdays<center></h5>
+<h5 style="color: white"><center>You are invited to attend the celebration of Lij & Shelby's birthdays!<center></h5>
 
 <center>
 ```{r}
