@@ -1,19 +1,15 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "blackstarday"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "Black Star Day"
+  favicon: icon.png
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    theme: slate
+
 
 
 

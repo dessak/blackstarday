@@ -1,7 +1,42 @@
 ---
-title: "blackstarday"
+execute: 
+  echo: false
+  warning: false
 ---
+<html>
+<head>
+<title>BLACK STAR DAY COUNDOWN</title>
 
-This is a Quarto website.
+<!-- Styles -->	
+<style>
+body {
+  background-image: url("logo.png");
+  background-position: 50% 50%;
+  background-repeat: repeat;
+}
+</style>
+</head>
+<body>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<!-- HTML -->
+<h1 style="color: White;"><center><bold>BLACK STAR DAY</center></bold></h1>
+<h3 style="color:White;"><center>By order of the Peaky Blinders:<center></h3>
+<h5 style="color: white"><center>You are invited to attend the birthday celebration of Lij & Shelby's birthdays<center></h5>
+<p>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+</p>
+
+<center>
+```{r}
+library(flipdownr)
+flipdown(downto="2022-12-17 19:00:00 -0700",id ="c1",theme = "dark")
+```
+</center>
